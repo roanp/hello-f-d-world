@@ -1,0 +1,5 @@
+puts "Hello world"
+puts "Hello again"
+puts "I like this"
+puts "I will be  a  proggramer"
+puts "I  will learn  this heck"
